@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-Leetcode Solutions as CS practice
+Leetcode Solutions in order to practice Data Structures and Algorithms
